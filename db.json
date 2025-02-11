@@ -1,0 +1,31 @@
+[
+  {
+    "id": "bcc204f2-109c-4318-8811-53344720b80c",
+    "description": "description",
+    "price": "123",
+    "image": null
+  },
+  {
+    "id": "e32b2b9e-7e6c-45c0-895e-c42a2df0114e",
+    "description": "description",
+    "price": "123",
+    "imageLink": "https://st.kp.yandex.net/images/film_iphone/iphone360_958722.jpg",
+    "image": null
+  },
+  {
+    "id": "726271ea-473a-4fc9-bd15-26da8a2f4bfc",
+    "name": "dlsa",
+    "description": "dasdwa",
+    "price": "123",
+    "imageLink": "https://st.kp.yandex.net/images/film_iphone/iphone360_958722.jpg",
+    "image": "http://localhost:8000/images/imagesf10b80a2-c166-4a8e-98d8-e40c00bad7b7.jpg"
+  },
+  {
+    "id": "5320d5a7-bda7-4e4e-b92f-b08b2d1f1481",
+    "name": "dlsa",
+    "description": "dasdwa",
+    "price": "123",
+    "imageLink": "https://st.kp.yandex.net/images/film_iphone/iphone360_958722.jpg",
+    "image": "http://localhost:8000/images/images293d7330-4c33-421b-9d7f-b02dc9510083.jpg"
+  }
+]
